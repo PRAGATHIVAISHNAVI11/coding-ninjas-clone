@@ -20,13 +20,13 @@ It includes modern UI components like Hero Section, Courses, Placements, Testimo
 
 <img width="1920" height="870" alt="Screenshot (920)" src="https://github.com/user-attachments/assets/b49a4ba2-0f69-482c-a06e-c74f3a1a6172" />
 
-<img width="1920" height="870" alt="Screenshot (920)" src="https://github.com/user-attachments/assets/2d8bf1bd-0377-41f8-99b4-343e6d1d4ed1" />
+<img width="1920" height="865" alt="Screenshot (921)" src="https://github.com/user-attachments/assets/2484c338-5cb2-4c29-81ca-903c2e4c0299" />
 
-<img width="1920" height="870" alt="Screenshot (920)" src="https://github.com/user-attachments/assets/53b2eb9a-e8ef-4d64-b71d-dd0bff4a0fed" />
+<img width="1920" height="872" alt="Screenshot (922)" src="https://github.com/user-attachments/assets/2f39c53c-eacf-4059-90b8-5d46d8cbb4ee" />
 
-<img width="1920" height="870" alt="Screenshot (920)" src="https://github.com/user-attachments/assets/33597cfd-d43b-45bd-a21f-e09980b60ba9" />
+<img width="1920" height="858" alt="Screenshot (923)" src="https://github.com/user-attachments/assets/2fb80dd4-2680-4d09-9424-dec23a0d8c61" />
 
-<img width="1920" height="870" alt="Screenshot (920)" src="https://github.com/user-attachments/assets/b9dced6a-7782-42a7-9b1b-c4f97b444f50" />
+<img width="1920" height="863" alt="Screenshot (924)" src="https://github.com/user-attachments/assets/4953a797-1f77-4b5f-8fc8-5a29463a84f9" />
 
 ---
 
