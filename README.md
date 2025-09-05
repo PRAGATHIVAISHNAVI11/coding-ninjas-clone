@@ -1,70 +1,74 @@
-# Getting Started with Create React App
+# 🚀 Coding Ninjas Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A responsive **Coding Ninjas clone website** built with **React + Tailwind CSS + Framer Motion**.  
+It includes modern UI components like Hero Section, Courses, Placements, Testimonials, Footer, and more.  
 
-## Available Scripts
+🌐 **Live Demo**: [View on GitHub Pages](https://PRAGATHIVAISHNAVI11.github.io/coding-ninjas-clone)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## ✨ Features
+- ⚡ Built with **React** and **Tailwind CSS**
+- 🎨 Modern UI inspired by [Coding Ninjas](https://www.codingninjas.com/)
+- 🎬 Smooth animations using **Framer Motion**
+- 📱 Fully responsive (mobile-friendly)
+- 🚀 Deployed on **GitHub Pages**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📸 Screenshots
 
-### `npm test`
+<img width="1920" height="870" alt="Screenshot (920)" src="https://github.com/user-attachments/assets/b49a4ba2-0f69-482c-a06e-c74f3a1a6172" />
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img width="1920" height="870" alt="Screenshot (920)" src="https://github.com/user-attachments/assets/2d8bf1bd-0377-41f8-99b4-343e6d1d4ed1" />
 
-### `npm run build`
+<img width="1920" height="870" alt="Screenshot (920)" src="https://github.com/user-attachments/assets/53b2eb9a-e8ef-4d64-b71d-dd0bff4a0fed" />
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<img width="1920" height="870" alt="Screenshot (920)" src="https://github.com/user-attachments/assets/33597cfd-d43b-45bd-a21f-e09980b60ba9" />
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<img width="1920" height="870" alt="Screenshot (920)" src="https://github.com/user-attachments/assets/b9dced6a-7782-42a7-9b1b-c4f97b444f50" />
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🛠️ Installation & Setup
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/PRAGATHIVAISHNAVI11/coding-ninjas-clone.git
+   cd coding-ninjas-clone
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Install dependencies:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+npm install
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+Run the development server:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+npm start
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+Build for production:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+npm run build
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Deploy to GitHub Pages:
 
-### Making a Progressive Web App
+npm run deploy
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+📂 Folder Structure
+coding-ninjas-clone/
+├── public/              # Static files
+├── src/
+│   ├── components/      # Reusable UI components
+│   ├── App.js           # Main app
+│   ├── index.js         # Entry point
+│   └── index.css        # TailwindCSS import
+├── package.json
+└── README.md
 
-### Advanced Configuration
+🙌 Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Pull requests are welcome! If you'd like to improve this project, fork it and submit a PR.
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+💡 Made with ❤️ using React + Tailwind
